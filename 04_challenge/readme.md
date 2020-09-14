@@ -1,1 +1,1 @@
-Indent issue was rectified through the Error message.
+Indentation issue was rectified through the Error message.

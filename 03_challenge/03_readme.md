@@ -1,0 +1,1 @@
+The integer arguments for max_value in the main method was passed as string. I was able to rectify it while reading the program, however ececuted the program to check erro message. Hence removed the single quotes in fizbuzz('16') and it worked fine.

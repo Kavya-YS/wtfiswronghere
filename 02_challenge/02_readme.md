@@ -1,0 +1,1 @@
+The max_num value was missing. When ececuted the program encountered an error that said max_num was not found. So rectified from the error message.

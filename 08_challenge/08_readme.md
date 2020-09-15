@@ -1,0 +1,3 @@
+I googled to check that why fizzbuzz(max_num) displays an error that i am giving 2 arguments when I gave only one argument.
+However figured out that in class when you pass any data while defining a method it takes as argument unless we don't mention it as self. When the value is again passed while creating an instance it is considered as 2nd argument.
+included the self in the method definition as in changed def fizzbuzz(max_num) to def fizzbuzz(self,max_num). this gave the solutio to the error popped up.

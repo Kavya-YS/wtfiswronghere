@@ -1,0 +1,1 @@
+In the main function changed the max_num value from 99 to 100. Hence found the right results

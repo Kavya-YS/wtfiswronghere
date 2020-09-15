@@ -1,0 +1,1 @@
+I referred the .png file to see what was expected and the program was missing fizz at 3 and buss at 5 because the range was mentioned as for i in range(6,max_num). Changed the range to for i in range(1, max_num) nad that worked.

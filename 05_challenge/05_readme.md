@@ -1,0 +1,3 @@
+Firstly changed the data in with open() from single quotes to double quotes. 
+Later changed "mifile.txt" to "Myfil.txt" as per the file name in the directory.(took help from channel)
+Still the problem exist. Tried googling and found that it is always good o give the Absolute path of the directory rather than depending on th relative path. Hence replaced the code with Absolute path and was able to find the results.

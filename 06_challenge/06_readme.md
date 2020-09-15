@@ -1,0 +1,1 @@
+I was bale to locate the error while reading the program at first go. Corrected the code from num2=conf.num to num2 = conf.num2 and saved the changes.

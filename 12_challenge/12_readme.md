@@ -1,0 +1,1 @@
+By reading the program I was able to make out that the self.num2 value was assigned as 4. I replaced it with 5 and got the correct output.

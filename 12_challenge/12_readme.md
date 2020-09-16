@@ -1,0 +1,1 @@
+I was able to rectify the error while readint the program. The value for self.mum2=4 hence the multiples of 5 were not printing buzz. Replaced the value 4 with 5 and got the correct output.

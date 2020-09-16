@@ -1,0 +1,1 @@
+I did not find any mistake in the syntax. I tried rearranging the elfi loop to have fizzbuzz code at the top followed by fizz and then buzz. This worked for me to pull the correct output. I am not sure of the logic behind this though.
